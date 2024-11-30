@@ -1,11 +1,11 @@
-
 package ec.edu.espoc.automovil;
 
 public enum TipoAutomovil {
-    CIUDAD, 
-    SUBCOMPACTO, 
-    COMPACTO, 
-    FAMILIAR, 
-    EJECUTIVO, 
+   
+    SUBCOMPACTO,
+    CIUDAD,
+    FAMILIAR,
+    COMPACTO,
+    EJECUTIVO,
     SUV
 }
