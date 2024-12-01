@@ -1,12 +1,13 @@
 package ec.edu.espoc.automovil;
 
 public enum Color {
-    BLANCO, 
-    NEGRO, 
-    ROJO, 
-    NARANJA, 
-    AMARILLO, 
-    VERDE, 
-    AZUL, 
-    VIOLETA
+    WHITE, 
+    BLACK, 
+    RED, 
+    ORANGE, 
+    YELLOW, 
+    GREEN, 
+    BLUE, 
+    VIOLET
+    
 }
