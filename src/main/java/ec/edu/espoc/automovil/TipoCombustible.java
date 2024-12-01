@@ -1,9 +1,9 @@
 package ec.edu.espoc.automovil;
 
 public enum TipoCombustible {
-    GASOLINA, 
-    BIOETANOL, 
+    GASOLINE, 
+    BIOETHANOL, 
     DIESEL, 
     BIODIESEL, 
-    GAS_NATURAL
+    NATURALGAS
 }
