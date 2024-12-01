@@ -6,4 +6,5 @@ public enum TipoCombustible {
     DIESEL, 
     BIODIESEL, 
     NATURALGAS
+    
 }

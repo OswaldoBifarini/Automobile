@@ -127,6 +127,7 @@ public class Automovil {
         auto.frenar();
 
         auto.calcularTiempoLlegada(500);
+        
     }
 }
 
